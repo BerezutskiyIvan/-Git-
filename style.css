@@ -1,0 +1,399 @@
+body{
+   margin: 0;
+    padding: 0;
+}
+.line{
+    border-bottom: 2px solid black;
+    height: 75px;
+
+}
+.name{
+    font-family: 'Shrikhand', cursive;
+    font-size: 60px;
+    color: black;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.main{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    padding-top: 50px;
+   
+}
+.main_foto{
+    width: 900px;
+    height: 600px;
+    float: left;
+    margin-left: 300px;
+}
+.main_dop{
+    border-bottom: 2px solid black;
+}
+.main_dop1{
+    width: 350px;
+    height: 180px;
+    margin-left: 500px;
+}
+.main_dop2{
+    width: 350px;
+    height: 180px;
+   
+}
+.store1{
+    display: flex;
+}
+.product{
+    width: 250px;
+    height: 355px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 180px;
+    text-decoration: none;
+}
+
+.product1{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family:  'Anton', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    
+}
+.price{
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: rgb(0, 0, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+   
+    
+}
+.product2{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company2{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Secular One', sans-serif;
+    text-align: center;
+    
+}
+.product3{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company3{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    
+}
+.product4{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company4{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    
+}
+
+.store2{
+    display: flex;
+}
+.product5{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company5{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Covered By Your Grace', cursive;
+    text-align: center;
+    
+}
+.product6{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company6{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    
+}
+.product7{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company7{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Macondo', cursive;
+    text-align: center;
+    
+}
+.product8{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company8{
+    font-size: 27px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    
+}
+.store3{
+    display: flex;
+}
+.product9{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company9{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    
+}
+.product10{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company10{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    
+}
+.product11{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company11{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    
+}
+.product12{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+
+}
+.company12{
+    font-size: 40px;
+    height: 20px;
+    margin-top: 1px;
+    color: black;
+    font-family: 'Rubik Glitch', cursive;
+    text-align: center;
+    
+}
+@media (max-width: 1280px){
+    .line {
+        border-bottom: 2px solid black;
+        height: 75px;
+        width: 1651px;
+    }
+    .main {
+        font-family: 'Bebas Neue', cursive;
+        font-size: 40px;
+        padding-top: 50px;
+    }
+    .main_foto {
+        width: 700px;
+        height: 400px;
+        float: left;
+        margin-left: 300px;
+    }
+    .main_dop1 {
+        width: 250px;
+        height: 140px;
+        margin-left: 400px;
+    }
+    .main_dop2 {
+        width: 250px;
+        height: 140px;
+    }
+    .main_dop {
+        border-bottom: 2px solid black;
+        width: 1651px;
+    }
+    .product {
+        width: 250px;
+        height: 355px;
+        border: 2px solid black;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 120px;
+        text-decoration: none;
+    }
+}
+@media (max-width: 1024px){
+    .line {
+        border-bottom: 2px solid black;
+        height: 75px;
+        width: 1651px;
+    }
+    .main {
+        font-family: 'Bebas Neue', cursive;
+        font-size: 20px;
+        padding-top: 50px;
+    }
+    .main_foto {
+        width: 300px;
+        height: 200px;
+        float: left;
+        margin-left: 600px;
+    }
+    .main_dop1 {
+        width: 250px;
+        height: 140px;
+        margin-left: 500px;
+    }
+    .main_dop2 {
+        width: 250px;
+        height: 140px;
+    }
+    .main_dop {
+        border-bottom: 2px solid black;
+        width: 1651px;
+    }
+    .product {
+        width: 250px;
+        height: 355px;
+        border: 2px solid black;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 100px;
+        text-decoration: none;
+    }
+}
+@media (max-width: 912px){
+    .line {
+        border-bottom: 2px solid black;
+        height: 75px;
+        width: 1651px;
+    }
+    .main {
+        font-family: 'Bebas Neue', cursive;
+        font-size: 22px;
+    
+    }
+    .main_foto {
+        width: 300px;
+        height: 200px;
+        float: left;
+        margin-left: 400px;
+    }
+    .main_dop1 {
+        width: 250px;
+        height: 140px;
+        margin-left: 300px;
+    }
+    .main_dop2 {
+        width: 250px;
+        height: 140px;
+    }
+    .main_dop {
+        border-bottom: 2px solid black;
+        width: 1651px;
+    }
+    .product {
+        width: 250px;
+        height: 355px;
+        border: 2px solid black;
+        border-radius: 20px;
+        margin-top: 50px;
+        margin-left: 100px;
+        text-decoration: none;
+    }
+}
+@media (max-width: 768px){
+    .main_foto {
+        width: 300px;
+        height: 200px;
+        float: left;
+        margin-left: 300px;
+    }
+    .main_dop1 {
+        width: 250px;
+        height: 140px;
+        margin-left: 200px;
+    }
+
+}
+@media (max-width: 414px){
+    .main_foto {
+        width: 300px;
+        height: 200px;
+        float: left;
+        margin-left: 0px;
+    }
+    .main_dop1 {
+        width: 250px;
+        height: 140px;
+        margin-left: 0px;
+    }
+
+}
